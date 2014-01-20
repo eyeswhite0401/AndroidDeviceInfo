@@ -1,4 +1,4 @@
 AndroidDeviceInfo
 =================
 
-to get android device information
+to get android device information easily
